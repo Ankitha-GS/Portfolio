@@ -4,7 +4,7 @@ This is my personal portfolio website showcasing my projects, skills, resume, an
 
 ## 🚀 Live Preview
 
-👉 [Visit Portfolio](https://ankithags.github.io/Portfolio)
+👉 [Visit Portfolio](https://Ankitha-GS.github.io/Portfolio)
 
 ## 🧠 About Me
 
